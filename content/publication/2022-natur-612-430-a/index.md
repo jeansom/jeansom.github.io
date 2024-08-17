@@ -1,0 +1,96 @@
+---
+title: A very luminous jet from the disruption of a star by a massive black hole
+authors:
+- Igor Andreoni
+- Michael W. Coughlin
+- Daniel A. Perley
+- Yuhan Yao
+- Wenbin Lu
+- S. Bradley Cenko
+- Harsh Kumar
+- Shreya Anand
+- Anna Y.~Q. Ho
+- Mansi M. Kasliwal
+- Antonio de Ugarte Postigo
+- Ana Sagués-Carracedo
+- Steve Schulze
+- D. Alexander Kann
+- S.~R. Kulkarni
+- Jesper Sollerman
+- Nial Tanvir
+- Armin Rest
+- Luca Izzo
+- Jean J. Somalwar
+- David L. Kaplan
+- Tomás Ahumada
+- G.~C. Anupama
+- Katie Auchettl
+- Sudhanshu Barway
+- Eric C. Bellm
+- Varun Bhalerao
+- Joshua S. Bloom
+- Michael Bremer
+- Mattia Bulla
+- Eric Burns
+- Sergio Campana
+- Poonam Chandra
+- Panos Charalampopoulos
+- Jeff Cooke
+- Valerio D'Elia
+- Kaustav Kashyap Das
+- Dougal Dobie
+- José Feliciano Agüı́ Fernández
+- James Freeburn
+- Cristoffer Fremling
+- Suvi Gezari
+- Simon Goode
+- Matthew J. Graham
+- Erica Hammerstein
+- Viraj R. Karambelkar
+- Charles D. Kilpatrick
+- Erik C. Kool
+- Melanie Krips
+- Russ R. Laher
+- Giorgos Leloudas
+- Andrew Levan
+- Michael J. Lundquist
+- Ashish A. Mahabal
+- Michael S. Medford
+- M. Coleman Miller
+- Anais Möller
+- Kunal P. Mooley
+- A.~J. Nayana
+- Guy Nir
+- Peter T.~H. Pang
+- Emmy Paraskeva
+- Richard A. Perley
+- Glen Petitpas
+- Miika Pursiainen
+- Vikram Ravi
+- Ryan Ridden-Harper
+- Reed Riddle
+- Mickael Rigault
+- Antonio C. Rodriguez
+- Ben Rusholme
+- Yashvi Sharma
+- I.~A. Smith
+- Robert D. Stein
+- Christina Thöne
+- Aaron Tohuvavohu
+- Frank Valdes
+- Jan van Roestel
+- Susanna D. Vergani
+- Qinan Wang
+- Jielai Zhang
+date: '2022-12-01'
+publishDate: '2024-08-17T22:05:28.861569Z'
+publication_types:
+- article-journal
+publication: '*nat*'
+doi: 10.1038/s41586-022-05465-8
+tags:
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2211.16530
+---
