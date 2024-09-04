@@ -167,4 +167,4 @@ education:
 
 ## About Me
 
-Jean Somalwar is a 5th year Ph.D. candidate in astronomy at the California Institute of Astronomy.
+Jean Somalwar is a 5th year Ph.D. candidate in astronomy at the California Institute of Technology.
