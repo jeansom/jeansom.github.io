@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate, Astronomy
+role: Kavli Fellow (Stanford/KIPAC) and MultiRAPTOR Fellow (UC Berkeley)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'jsomalwa@caltech.edu'
+    url: 'jsomalwar@berkeley.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/jeansom
@@ -46,23 +46,12 @@ education:
   - area: PhD Astronomy
     institution: California Institute of Technology
     date_start: 2020-09-01
-    date_end: 
+    date_end: 2025-06-04
     # summary: |
     #   XX
     button:
       text: 
       url: 
-  - area: MSc Astronomy
-    institution: California Institute of Technology
-    date_start: 2020-09-01
-    date_end: 
-    # summary: |
-    #   GPA: 3.8/4.0
-
-    #   Courses included:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: AB (BA-equivalent) Physics 
     institution: Princeton University
     date_start: 2017-09-13
@@ -167,4 +156,4 @@ education:
 
 ## About Me
 
-Jean Somalwar is a 5th year Ph.D. candidate in astronomy at the California Institute of Technology.
+Jean Somalwar is a joint KIPAC Kavli Postdoctoral Fellow at Stanford and MultiRAPTOR Postdoctoral Fellow at UC Berkeley

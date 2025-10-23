@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I search for and study the physics of massive black holes and multiwavelength, time-domain astrophysics
+        I search for and study massive black holes, primarily using multiwavelength, time-domain observations
     design:
       columns: '1'
   # - block: collection
